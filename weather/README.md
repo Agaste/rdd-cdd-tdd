@@ -29,7 +29,7 @@ Features :
 - `verbose` : "-v" show the city information of the weather you're looking for
 
 Examples  :
-- `Courbevoie`:  
+- `Hambourg`:  
 ```bash
 node index.js -a hambourg -c -v
 ```
